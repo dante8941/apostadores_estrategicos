@@ -410,7 +410,7 @@ h1, h2, h3, h4, h5, h6, figure {
     max-width: 380px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 484px) {
   .fh5co-feature .fh5co-figure img {
     max-width: 100%;
   }
